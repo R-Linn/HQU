@@ -1,0 +1,6 @@
+ModelName,ValidationSetAccuracy,ValidationSetAreaUnderCurve,TestSetAccuracy,TestSetAreaUnderCurve
+LogisticRegression,0.75,0.7867,0.75,0.9067
+SupportVectorMachineLinearKernel,0.8,0.76,0.85,0.8533
+RandomForestClassifier,0.7,0.6933,0.85,0.8933
+ExtremeGradientBoostingClassifier,0.7,0.56,0.85,0.9467
+StackingEnsembleModel,-,0.76,0.75,0.8933
