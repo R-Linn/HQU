@@ -1,0 +1,6 @@
+metricName,validationSet,testSet
+Accuracy,0.9993,0.9996
+Precision,0.9995,0.9997
+Recall,0.9998,0.9999
+F1-Score,0.9997,0.9998
+AUC,0.9345,0.9476

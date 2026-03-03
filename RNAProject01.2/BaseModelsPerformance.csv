@@ -1,0 +1,4 @@
+modelName,validationAccuracy,validationPrecision,validationRecall,validationF1Score,validationAucValue,testSetAccuracy,testSetPrecision,testSetRecall,testSetF1Score,testSetAreaUnderCurve
+LogisticRegression,0.9995,0.9995,1.0,0.9998,0.8905,0.9995,0.9995,1.0,0.9997,0.9609
+SupportVectorMachine,0.9995,0.9995,1.0,0.9998,0.997,0.9995,0.9995,1.0,0.9997,0.9984
+RandomForestClassifier,0.9993,0.9995,0.9998,0.9997,0.928,0.9996,0.9997,0.9999,0.9998,0.9939
